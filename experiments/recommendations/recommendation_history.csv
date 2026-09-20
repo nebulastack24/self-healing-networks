@@ -1,0 +1,2 @@
+timestamp,connected_devices,latency_ms,packet_loss_percent,bandwidth_usage_percent,throughput_mbps,congestion_level,severity,recommendation,recommended_actions
+2026-08-02 00:39:00,34,18.05,0.0,34.23,37.04,Normal,LOW,Maintain current bandwidth allocation and continue normal monitoring.,Maintain current bandwidth allocation | Continue regular network monitoring | No immediate traffic restriction required

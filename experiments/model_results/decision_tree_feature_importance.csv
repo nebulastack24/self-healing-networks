@@ -1,0 +1,11 @@
+Feature,Importance
+latency_ms,0.9211717922321843
+bandwidth_usage_percent,0.04173653158367233
+packet_loss_percent,0.024660126382905066
+connected_devices,0.012431549801238319
+upload_mbps,0.0
+download_mbps,0.0
+throughput_mbps,0.0
+hour,0.0
+minute,0.0
+day_of_week,0.0

@@ -1,0 +1,2 @@
+timestamp,network_timestamp,congestion_level,policy,critical_bandwidth_percent,general_bandwidth_percent,background_bandwidth_percent,critical_priority,general_priority,background_priority,action
+2026-09-20 22:30:40.741597,2026-08-02 00:39:00,Normal,NORMAL,40,40,20,HIGH,MEDIUM,LOW,Maintain current bandwidth allocation.
